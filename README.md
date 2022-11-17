@@ -3,9 +3,9 @@ Simple website with One Piece information.
 
 Built with:
 
-React
-MUI
-TailwindCSS
+- ReactJS
+- MUI
+- TailwindCSS
 
 https://i8tkq8.csb.app/
 
